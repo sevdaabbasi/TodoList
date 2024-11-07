@@ -1,0 +1,15 @@
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.deps.json
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.dll
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/bin/Debug/net8.0/TodoList.Models.pdb
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/bin/Debug/net8.0/Core.dll
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/bin/Debug/net8.0/Core.pdb
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.csproj.AssemblyReference.cache
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfoInputs.cache
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.AssemblyInfo.cs
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.csproj.CoreCompileInputs.cache
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.870CB500.Up2Date
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.dll
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/refint/TodoList.Models.dll
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/TodoList.Models.pdb
+/Users/sevdaabbasi/RiderProjects/RenACarSimulation/TodoList/TodoList.Models/obj/Debug/net8.0/ref/TodoList.Models.dll
